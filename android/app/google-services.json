@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "885196364174",
+    "project_id": "codedin-4ef9a",
+    "storage_bucket": "codedin-4ef9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885196364174:android:7520e26598149e64572cdf",
+        "android_client_info": {
+          "package_name": "com.codedin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885196364174-va9cb4dfb198df944j5100emvnhfs5q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHptdre4DUESS-BzqvOOl5Fgeqkm7c4k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885196364174-va9cb4dfb198df944j5100emvnhfs5q8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "885196364174-e8m0l2qjnovd8q92b0ussln5poujr0pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.SanberApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
