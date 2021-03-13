@@ -14,6 +14,14 @@ const Routes = () => {
   const Drawer = createDrawerNavigator();
   const Tab = createDrawerNavigator();
 
+  const myDrawer = () =>{
+    return(
+      <Drawer.Navigator>
+        <Drawer.Screen />
+      </Drawer.Navigator>
+    )
+  }
+
   return (
     <NavigationContainer>
       <Stack.Navigator
