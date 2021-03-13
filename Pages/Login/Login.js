@@ -47,7 +47,7 @@ const Login = ({navigation}) => {
           <TouchableOpacity
             style={styles.buttonSignin}
             onPress={() =>
-              navigation.navigate('Home', {
+              navigation.navigate('MainTab', {
                 username,
               })
             }>
