@@ -30,6 +30,8 @@ const addskill = ({navigation}) => {
       });
   };
 
+
+  
   return (
     <View style={styles.container}>
       <View style={styles.imageSkillContainer}>
